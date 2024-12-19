@@ -5,6 +5,11 @@ This project implements the Graham Scan algorithm to compute the convex hull of 
 
 The program reads a list of coordinates from a file, computes the convex hull, prints the results, and optionally visualizes the points and the hull.
 
+
+![image](https://github.com/user-attachments/assets/23abeaf9-4d8c-4b02-b725-2300eb957be9)
+
+Picture of a plotted convex hull using Graham Scan
+
 ---
 
 ## Features
